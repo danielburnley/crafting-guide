@@ -9,6 +9,9 @@
     "start": "grunt start",
     "test": "grunt test"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "author": "Andrew Miner",
   "license": "UNLICENSED",
   "devDependencies": {
