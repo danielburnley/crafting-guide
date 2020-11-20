@@ -10,7 +10,7 @@
     "test": "grunt test"
   },
   "engines": {
-    "node": "10.x"
+    "node": "12.x"
   },
   "author": "Andrew Miner",
   "license": "UNLICENSED",
